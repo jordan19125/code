@@ -1,0 +1,21 @@
+a {
+    background-color: red;
+    text-emphasis-color: black;
+  }
+  h2 {
+    background-color: purple;
+    text-emphasis-color: black;
+  }
+  h1 {
+    background-color: red;
+  }
+  b {
+    background-color:rgb(224, 48, 4);
+  }
+  body{
+    background-color: blue ;
+  }
+img{
+  width: 600px;
+  height: 400px;
+}
